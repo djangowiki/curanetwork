@@ -1,1 +1,1 @@
-web: gunicorn curanetwork.wsgi
+web: gunicorn curaproject.wsgi
