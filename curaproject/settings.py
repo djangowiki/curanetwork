@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'x=b%sy#&z)4y!!l&wq_524@0w#b(vkq!r0ru$*1o)d(@srj-bz'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['curanetwork-project.herokuapp.com']
 
