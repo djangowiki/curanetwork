@@ -19,5 +19,4 @@ I had some challenges working with this. Not their, the here.com api is actually
 But I had some ideas on how to use it with the REST FRAME WORK using the `requests` and `json` modules.
 Please I will appreciate if you can hint me on what am getting wrong. I wrote my code anyways and it is in this repo
 
-## Thank you for the opportunity to work on this challenge. it was fun and educating and I pray to learn more working
-in your esteemed organization
+## Thank you for the opportunity to work on this challenge. it was fun and educating and I pray to learn more working in your esteemed organization
